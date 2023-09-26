@@ -27,7 +27,7 @@ global.CAPTION = '*𝙱𝚈 𝙾𝙿𝙴𝙽-𝙰𝙸(𝙲𝙷𝙰𝚃𝙶𝙿�
 📌⭕ 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬 𝗕𝗢𝗧 📌⭕
 > Ai Bot Password Get From Watching This Video 
 */
-global.AI_PASSWORD = ''
+global.AI_PASSWORD = 'king-nima-gpt-bot'
 global.SESSION_ID = 'elisa_md@;;;8c8ByIJL#WSm2KqmZH9TzdJCEG7E-svH5Hz4lxyri0vqtxX7Cm3E'
 
 /*
@@ -39,8 +39,8 @@ global.IMAGE_CMD = 'aiimg' // .aiimg Command
 global.PORT = process.env.PORT || '5000' // Port No need Change.
 
 mess = {
-	owner: '*This Command is only For Owner.*',
-	need_text: '*Please Give Some words*'
+	owner: '*This Command is only For Owner...*',
+	need_text: '*Please Give Some words...*'
 }
 react = {
     ai_message : '🤖',
